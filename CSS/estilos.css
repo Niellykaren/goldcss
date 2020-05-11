@@ -1,9 +1,7 @@
 body {
     background-image:url(https://my.davidson.edu/wp-content/uploads/2016/08/lightbulb-innovation.jpg);
-    backgroud-size: auto 100vh;
     font-family: Verdana;
-    height: 100vh;
-  }
+    }
   .menu{
     background-color: white;
   }
