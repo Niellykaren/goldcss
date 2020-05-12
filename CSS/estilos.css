@@ -23,13 +23,15 @@ body {
   .site-subtitle,
   .site-title{
     text-align: center;
-    color: whitesmoke;
+    color: rgb(56, 1, 1);
     
   }
   .site-subtitle{
     font-style: italic
   }
-  div{border: 5px solid black;
+  div{border: 5px solid rgb(254, 255, 188);
   margin-top: 30px;
-  background-color: darkgray;
+  background-color: rgb(245, 214, 120);
+  box-shadow: rgb(243, 243, 9);
+  box-shadow: 10px 10px 40px;
 }
