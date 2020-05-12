@@ -23,7 +23,7 @@ body {
   .site-subtitle,
   .site-title{
     text-align: center;
-    color: whitesmoke;
+    color: black;
     
   }
   .site-subtitle{
@@ -31,4 +31,6 @@ body {
   }
   div{border: 5px solid black;
   margin-top: 30px;
+    background: white;
+    
 }
