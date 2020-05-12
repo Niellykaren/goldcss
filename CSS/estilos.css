@@ -29,3 +29,6 @@ body {
   .site-subtitle{
     font-style: italic
   }
+  div{border: 5px solid black;
+  margin-top: 30px;
+}
